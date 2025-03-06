@@ -1,0 +1,81 @@
+Data Coleta,Parametro,Valor,Unidade
+2023-01-19,Coliformes Termotolerantes,27500.0,UFC/100mL
+2023-05-03,Coliformes Termotolerantes,2375000.0,UFC/100mL
+2023-07-13,Coliformes Termotolerantes,900.0,UFC/100mL
+2023-10-19,Coliformes Termotolerantes,96250.0,UFC/100mL
+2024-01-10,Coliformes Termotolerantes,4125000.0,UFC/100mL
+2024-04-10,Coliformes Termotolerantes,2000.0,UFC/100mL
+2024-07-03,Coliformes Termotolerantes,435.0,UFC/100mL
+2024-10-30,Coliformes Termotolerantes,625.0,UFC/100mL
+2023-01-19,Delta Temperatura,4.700000000000003,°C
+2023-05-03,Delta Temperatura,1.0,°C
+2023-07-13,Delta Temperatura,2.700000000000003,°C
+2023-10-19,Delta Temperatura,1.3999999999999986,°C
+2024-01-10,Delta Temperatura,7.4999999999999964,°C
+2024-04-10,Delta Temperatura,0.09999999999999787,°C
+2024-07-03,Delta Temperatura,0.3000000000000007,°C
+2024-10-30,Delta Temperatura,5.5,°C
+2023-01-19,Fósforo Total,0.18,mg/L
+2023-05-03,Fósforo Total,0.85,mg/L
+2023-07-13,Fósforo Total,0.09,mg/L
+2023-10-19,Fósforo Total,0.33,mg/L
+2024-01-10,Fósforo Total,0.53,mg/L
+2024-04-10,Fósforo Total,0.25,mg/L
+2024-07-03,Fósforo Total,0.23,mg/L
+2024-10-30,Fósforo Total,0.3,mg/L
+2023-01-19,Nitrogênio Total,6.59,mg/L
+2023-05-03,Nitrogênio Total,10.049999999999999,mg/L
+2023-07-13,Nitrogênio Total,5.69,mg/L
+2023-10-19,Nitrogênio Total,7.71,mg/L
+2024-01-10,Nitrogênio Total,12.18,mg/L
+2024-04-10,Nitrogênio Total,5.29,mg/L
+2024-07-03,Nitrogênio Total,4.96,mg/L
+2024-10-30,Nitrogênio Total,7.63,mg/L
+2023-01-19,Oxigênio Dissolvido,4.27,mg/L
+2023-05-03,Oxigênio Dissolvido,4.78,mg/L
+2023-07-13,Oxigênio Dissolvido,6.56,mg/L
+2023-10-19,Oxigênio Dissolvido,6.1,mg/L
+2024-01-10,Oxigênio Dissolvido,4.74,mg/L
+2024-04-10,Oxigênio Dissolvido,5.6,mg/L
+2024-07-03,Oxigênio Dissolvido,6.97,mg/L
+2024-10-30,Oxigênio Dissolvido,6.82,mg/L
+2023-01-19,Sólido Total,178.0,mg/L
+2023-05-03,Sólido Total,228.0,mg/L
+2023-07-13,Sólido Total,204.0,mg/L
+2023-10-19,Sólido Total,188.0,mg/L
+2024-01-10,Sólido Total,212.0,mg/L
+2024-04-10,Sólido Total,166.0,mg/L
+2024-07-03,Sólido Total,168.0,mg/L
+2024-10-30,Sólido Total,208.0,mg/L
+2023-01-19,Temperatura da Água,23.9,ºC
+2023-05-03,Temperatura da Água,23.4,ºC
+2023-07-13,Temperatura da Água,19.9,ºC
+2023-10-19,Temperatura da Água,21.2,ºC
+2024-01-10,Temperatura da Água,25.8,ºC
+2024-04-10,Temperatura da Água,23.9,ºC
+2024-07-03,Temperatura da Água,19.7,ºC
+2024-10-30,Temperatura da Água,22.5,ºC
+2023-01-19,Temperatura do Ar,28.6,ºC
+2023-05-03,Temperatura do Ar,24.4,ºC
+2023-07-13,Temperatura do Ar,22.6,ºC
+2023-10-19,Temperatura do Ar,19.8,ºC
+2024-01-10,Temperatura do Ar,33.3,ºC
+2024-04-10,Temperatura do Ar,23.8,ºC
+2024-07-03,Temperatura do Ar,19.4,ºC
+2024-10-30,Temperatura do Ar,28.0,ºC
+2023-01-19,Turbidez,3.6,UNT
+2023-05-03,Turbidez,7.5,UNT
+2023-07-13,Turbidez,2.5,UNT
+2023-10-19,Turbidez,2.2,UNT
+2024-01-10,Turbidez,14.0,UNT
+2024-04-10,Turbidez,16.0,UNT
+2024-07-03,Turbidez,2.6,UNT
+2024-10-30,Turbidez,8.3,UNT
+2023-01-19,pH,7.1,U.pH
+2023-05-03,pH,7.5,U.pH
+2023-07-13,pH,6.9,U.pH
+2023-10-19,pH,7.5,U.pH
+2024-01-10,pH,7.4,U.pH
+2024-04-10,pH,7.3,U.pH
+2024-07-03,pH,7.6,U.pH
+2024-10-30,pH,7.5,U.pH
